@@ -2,7 +2,7 @@
 <img src="https://media.licdn.com/dms/image/C4E16AQEEOps5iTI9mA/profile-displaybackgroundimage-shrink_350_1400/0/1658830418275?e=1681344000&v=beta&t=evpOiH2_83dbT4DUQ6tRGAb5y1Mr9sex1sFcBucf96Q">
 
 <h1 align="center">Hi 👋, I'm Adrian</h1>
-<h3 align="center">A passionate frontend developer from Romania</h3>
+<h3 align="center">I'm a hardworking and enthusiastic person with coding skills, problem-solving abilities, and a passion for learning new tech. I'm well-organized, enjoy teamwork, and can work independently. I like taking on challenges and want to use my skills to make a positive impact while continuing to grow.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianionescuionut&label=Profile%20views&color=0e75b6&style=flat" alt="adrianionescuionut" /> </p>
 
